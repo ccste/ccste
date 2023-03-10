@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 **ccste/ccste** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some areas important to me:
@@ -13,4 +12,3 @@ Here are some areas important to me:
 - 📫 How to reach me: haolix18@student.wintec.ac.nz
 - 😄 Check out my Portfolio https://github.com/ccste
 - ⚡ Fun fact: I like watching Games
--->
