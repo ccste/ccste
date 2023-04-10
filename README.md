@@ -11,4 +11,4 @@ Here are some areas important to me:
 - 💬 Ask me about user interface design
 - 📫 How to reach me: haolix18@student.wintec.ac.nz
 - 😄 Check out my Portfolio https://github.com/ccste
-- ⚡ Fun fact: I like watching Games and doing sports.
+- ⚡ Fun fact: I like watching Games and doing sports
