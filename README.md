@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-**ccste/ccste** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**ccste/ccste** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on my GitHub profile.
 
 Here are some areas important to me:
 
