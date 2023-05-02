@@ -9,6 +9,6 @@ Here are some areas important to me:
 - 👯 I’m looking to collaborate with dedicated and diligent people
 - 🤔 I’m looking for help with creative and attractive design
 - 💬 Ask me about user interface design
-- 📫 How to reach me: haolix18@student.wintec.ac.nz
+- 📫 How to reach me: lhc0546@126.com
 - 😄 Check out my Portfolio https://github.com/ccste
 - ⚡ Fun fact: I like watching games and doing sports
