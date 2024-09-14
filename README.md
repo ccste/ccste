@@ -13,8 +13,4 @@ Here are some areas important to me:
 - 😄 Check out my Portfolio https://ccste.github.io/portfolio
 - ⚡ Fun fact: I like watching games and doing sports
 
-###
-
 <h3 align="left">🔥   My Stats :</h3>
-
-###
