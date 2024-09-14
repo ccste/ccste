@@ -15,9 +15,11 @@ Here are some areas important to me:
 
 <h3 align="left">🔥   My Stats :</h3>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=ccste&show_icons=true&locale=en" alt="ccste" />
+<div style="margin-bottom: 20px;">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=ccste&show_icons=true&locale=en" alt="ccste" />
+</div>
 
-<br/>
+<!-- <br/> -->
 
 <div align="left">
   <img src="https://streak-stats.demolab.com?user=ccste&locale=en&mode=daily&hide_border=false&card_width=800" alt="GitHub Streak" />
