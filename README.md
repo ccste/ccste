@@ -10,7 +10,7 @@ Here are some areas important to me:
 - 🤔 I’m looking for help with creative and attractive design
 - 💬 Ask me about app design
 - 📫 How to reach me: stephenccu@gmail.com
-- 😄 Check out my Portfolio <a href="https://ccste.github.io/portfolio">here</a>
+- 😄 Check out my Portfolio <a href="https://ccste.github.io/portfolio" target="_blank">here</a>
 - ⚡ Fun fact: I like watching games and doing sports
 
 <h3 align="left">🔥   My Stats :</h3>
