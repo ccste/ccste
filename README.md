@@ -17,7 +17,7 @@ Here are some areas important to me:
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=ccste&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=transparent&locale=en&hide_border=false" height="180" alt="stats graph"  />
-  &nbsp;&nbsp;&nbsp; <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ccste&locale=en&hide_title=false&layout=compact&langs_count=6&theme=transparent&hide_border=false" height="180" alt="languages graph"  />
+  &nbsp; &nbsp; &nbsp; <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ccste&locale=en&hide_title=false&layout=compact&langs_count=6&theme=transparent&hide_border=false" height="180" alt="languages graph"  />
   <!-- &card_width=320 -->
 </p>
 
