@@ -15,14 +15,14 @@ Here are some areas important to me:
 
 <h3 align="left">🔥   My Stats :</h3>
 
-<div>
+<p>
   <img src="https://github-readme-stats.vercel.app/api?username=ccste&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=transparent&locale=en&hide_border=false" height="180" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ccste&locale=en&hide_title=false&layout=compact&langs_count=6&theme=transparent&hide_border=false" height="180" alt="languages graph"  />
   <!-- &card_width=320 -->
-</div>
+</p>
 
-<div>
+<p>
   <img src="https://streak-stats.demolab.com?user=ccste&locale=en&mode=daily&hide_border=false&card_width=800&theme=transparent" alt="GitHub Streak" />
-</div>
+</p>
 <!-- &border_radius=5&order=3 -->
 
