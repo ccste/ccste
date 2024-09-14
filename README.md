@@ -22,7 +22,7 @@ Here are some areas important to me:
 </div>
 
 <div align="left">
-  <img src="https://streak-stats.demolab.com?user=ccste&locale=en&mode=daily&hide_border=false&card_width=800&theme=github-light" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=ccste&locale=en&mode=daily&hide_border=false&card_width=800&theme=github-dark-blue" alt="GitHub Streak" />
 </div>
 <!-- &border_radius=5&order=3 -->
 
