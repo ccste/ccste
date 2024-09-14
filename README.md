@@ -19,6 +19,6 @@ Here are some areas important to me:
 
 <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=ccste&" alt="ccste" />
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=ccste&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+<div align="left">
+  <img src="https://streak-stats.demolab.com?user=ccste&locale=en&mode=daily&hide_border=false&border_radius=5&order=3" alt="streak graph"  />
 </div>
