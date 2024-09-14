@@ -20,10 +20,12 @@ Here are some areas important to me:
 <!-- <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=ccste&" alt="ccste" /> -->
 
 <div align="left">
-  <img src="https://streak-stats.demolab.com?user=ccste&locale=en&mode=daily&hide_border=false&border_radius=10&order=3&card_width=1000" alt="GitHub Streak"  />
+  <img src="https://streak-stats.demolab.com?user=ccste&locale=en&mode=daily&hide_border=false&order=3&card_width=1000" alt="GitHub Streak"  />
 </div>
 
 <!-- <a href="https://git.io/streak-stats"></a> -->
 <!-- <img src="https://streak-stats.demolab.com?user=ccste&card_width=1000&card_height=300" alt="GitHub Streak" /> -->
 
 <!-- &border_radius=24 -->
+
+<!-- &border_radius=10 -->
