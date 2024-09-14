@@ -20,7 +20,7 @@ Here are some areas important to me:
 <!-- <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=ccste&" alt="ccste" /> -->
 
 <div align="left">
-  <img src="https://streak-stats.demolab.com?user=ccste&locale=en&mode=daily&hide_border=false&order=3&card_width=800" alt="GitHub Streak"  />
+  <img src="https://streak-stats.demolab.com?user=ccste&locale=en&mode=daily&hide_border=false&card_width=800" alt="GitHub Streak" />
 </div>
 
 <!-- <a href="https://git.io/streak-stats"></a> -->
@@ -29,3 +29,5 @@ Here are some areas important to me:
 <!-- &border_radius=24 -->
 
 <!-- &border_radius=10 -->
+
+<!-- &order=3 -->
