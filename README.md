@@ -13,9 +13,7 @@ Here are some areas important to me:
 - 📫 How to reach me: stephenccu@gmail.com
 - 😄 Check out my Portfolio <a href="https://ccste.github.io/portfolio" target="_blank">here</a>
 - ⚡ Fun fact: I like watching games and doing sports
-
 <br/>
-
 <h3 align="left">🔥My Stats :</h3>
 
 <p>
