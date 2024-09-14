@@ -5,14 +5,16 @@
 
 Here are some areas important to me:
 
-🔭 I’m currently working as a UX/UI designer in IRM project
-🌱 I’m currently learning Information Technology for my Bachelor's degree
-👯 I’m looking to collaborate with dedicated and diligent people
-🤔 I’m looking for help with creative and attractive design
-💬 Ask me about app design
-📫 How to reach me: stephenccu@gmail.com
-😄 Check out my Portfolio <a href="https://ccste.github.io/portfolio" target="_blank">here</a>
-⚡ Fun fact: I like watching games and doing sports
+- 🔭 I’m currently working as a UX/UI designer in IRM project
+- 🌱 I’m currently learning Information Technology for my Bachelor's degree
+- 👯 I’m looking to collaborate with dedicated and diligent people
+- 🤔 I’m looking for help with creative and attractive design
+- 💬 Ask me about app design
+- 📫 How to reach me: stephenccu@gmail.com
+- 😄 Check out my Portfolio <a href="https://ccste.github.io/portfolio" target="_blank">here</a>
+- ⚡ Fun fact: I like watching games and doing sports
+
+<br/> <br/>
 
 <h3 align="left">🔥My Stats :</h3>
 
