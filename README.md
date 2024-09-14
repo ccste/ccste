@@ -24,4 +24,6 @@ Here are some areas important to me:
 </div>
 
 <!-- <a href="https://git.io/streak-stats"></a> -->
-<img src="https://streak-stats.demolab.com?user=ccste&border_radius=24&card_width=1000&card_height=220" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=ccste&card_width=1000&card_height=300" alt="GitHub Streak" />
+
+<!-- &border_radius=24 -->
