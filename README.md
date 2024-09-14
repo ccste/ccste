@@ -17,7 +17,7 @@ Here are some areas important to me:
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=ccste&show_icons=true&locale=en" alt="ccste" />
 
-<p align="left">
-  <img src="https://streak-stats.demolab.com?user=ccste&locale=en&mode=daily&hide_border=false&card_width=800" alt="GitHub Streak" />
+<p>
+  <img align="left" src="https://streak-stats.demolab.com?user=ccste&locale=en&mode=daily&hide_border=false&card_width=800" alt="GitHub Streak" />
 </p>
 <!-- &border_radius=5&order=3 -->
