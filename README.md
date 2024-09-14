@@ -14,3 +14,7 @@ Here are some areas important to me:
 - ⚡ Fun fact: I like watching games and doing sports
 
 <h3 align="left">🔥   My Stats :</h3>
+
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=ccste&show_icons=true&locale=en" alt="ccste" />
+
+<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=ccste&" alt="ccste" />
