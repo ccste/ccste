@@ -13,7 +13,7 @@ Here are some areas important to me:
 - 😄 Check out my Portfolio <a href="https://ccste.github.io/portfolio" target="_blank">here</a>
 - ⚡ Fun fact: I like watching games and doing sports
 
-<h3 align="left">🔥   My Stats :</h3>
+<h2 align="left">🔥   My Stats :</h2>
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=ccste&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=transparent&locale=en&hide_border=false" height="180" alt="stats graph"  />
