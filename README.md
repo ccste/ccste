@@ -28,5 +28,5 @@ Here are some areas important to me:
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=60&color=gradient&section=footer&width=100"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=60&color=006aff&section=footer&width=100"/>
 </p>
