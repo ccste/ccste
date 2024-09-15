@@ -14,7 +14,7 @@ Here are some areas important to me:
 - 😄 Check out my Portfolio <a href="https://ccste.github.io/portfolio" target="_blank">here</a>
 - ⚡ Fun fact: I like watching games and doing sports
 
-<h3 align="left"><font size="30">🔥My Stats :</font></h3>
+<h3 align="left">🔥My Stats :</h3>
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ccste&locale=en&hide_title=false&layout=compact&langs_count=6&theme=transparent&hide_border=false" height="180" alt="languages graph"  />
