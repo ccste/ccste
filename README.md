@@ -1,4 +1,7 @@
-<h1 align="center">Kia ora 👋🏻, I'm Stephen from CN</h1>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Stephen+Li+from+CN!;" />
+</h1>
+<!-- <h1 align="center">Kia ora 👋🏻, I'm Stephen from CN</h1> -->
 <!-- ### Hi there 👋 -->
 
 <!-- **ccste/ccste** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on my GitHub profile. -->
@@ -27,7 +30,7 @@ Here are some areas important to me:
   <!-- &border_radius=5&order=3 -->
 </p>
 
-<img height="100" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+<!-- <img height="100" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" /> -->
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=60&color=006aff&section=footer&width=100"/>
