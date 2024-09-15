@@ -1,4 +1,4 @@
-<h1 align="center">Kia ora 👋🏼, I'm Stephen</h1>
+<h1 align="center">Kia ora 👋🏻, I'm Stephen "CN"</h1>
 <!-- ### Hi there 👋 -->
 
 <!-- **ccste/ccste** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on my GitHub profile. -->
