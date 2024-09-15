@@ -27,6 +27,8 @@ Here are some areas important to me:
   <!-- &border_radius=5&order=3 -->
 </p>
 
+<br/>
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=60&color=006aff&section=footer&width=100"/>
 </p>
