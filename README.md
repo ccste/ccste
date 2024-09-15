@@ -24,8 +24,9 @@ Here are some areas important to me:
 
 <p>
   <img src="https://streak-stats.demolab.com?user=ccste&locale=en&mode=daily&hide_border=false&card_width=780&theme=transparent" alt="GitHub Streak" />
+  <!-- &border_radius=5&order=3 -->
 </p>
-<!-- &border_radius=5&order=3 -->
+
 
 
 
