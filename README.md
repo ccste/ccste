@@ -9,7 +9,7 @@
 Here are some areas important to me:
 
 - 🔭 I’m currently working as a UX/UI designer in IRM project
-- 🌱 I’m currently learning Information Technology for my Bachelor's degree
+- 🌱 I’m currently learning Information Technology for my Master's degree
 - 👯 I’m looking to collaborate with dedicated and diligent people
 - 🤔 I’m looking for help with creative and attractive design
 - 💬 Ask me about app design
