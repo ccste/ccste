@@ -8,13 +8,13 @@
 
 Here are some areas important to me:
 
-- 🔭 I’m currently working as a UX/UI designer in IRM project
-- 🌱 I’m currently learning Information Technology for my Master's degree
-- 👯 I’m looking to collaborate with dedicated and diligent people
-- 🤔 I’m looking for help with creative and attractive design
-- 💬 Ask me about app design
-- 📫 How to reach me: stephenccu@gmail.com
-- ⚡ Fun fact: I like watching games and doing sports
+- 🎯 Currently seeking internship opportunities starting from July 2026, with a focus on Software Testing  
+- 💻 Currently studying Master of Information Technology at UoA  
+- 🧪 Interested in Software Testing, Data Analysis, and UX/UI Design  
+- 🤝 Open to collaboration and learning opportunities  
+- 💬 Ask me about my internship project and hands-on experience  
+- 📧 How to reach me: hli448@aucklanduni.ac.nz  
+- ⚡ Fun fact: I enjoy watching sports and staying active
 <!-- - 😄 Check out my Portfolio <a href="#" target="_blank">here</a> -->
 
 <h3 align="left">🔥My Stats :</h3>
