@@ -13,7 +13,6 @@ Here are some areas important to me:
 - 🧪 Interested in Software Testing, Data Analysis, and UX/UI Design  
 - 🤝 Open to collaboration and learning opportunities  
 - 💬 Ask me about my internship project and hands-on experience  
-- 📧 How to reach me: hli448@aucklanduni.ac.nz  
 - ⚡ Fun fact: I enjoy watching sports and staying active
 <!-- - 😄 Check out my Portfolio <a href="#" target="_blank">here</a> -->
 
